@@ -21,4 +21,4 @@ This dashboard analyzes sales data from FNP (Ferns N Petals) using Microsoft Exc
 - KPI Dashboard Design
 
 ## 📸 Dashboard Preview
-![FNP Dashboard](Fnp-Sales Analysis Dashboard(Excel).png)
+![FNP Dashboard](https://github.com/sivapuramlokesh/FNP-Sales-Dashboard/blob/eb7436c4d86f8cb66ad90856aa551a875547478a/Fnp-Sales%20Analysis%20Dashboard(Excel).png)
